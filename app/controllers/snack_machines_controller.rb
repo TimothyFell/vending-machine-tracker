@@ -1,0 +1,3 @@
+class SnackMachinesController < ApplicationController
+
+end
